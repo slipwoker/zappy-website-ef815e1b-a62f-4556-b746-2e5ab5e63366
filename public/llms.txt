@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# MaxUX — Generative Engine Optimization Map
+
+> A שירותי טכנולוגיה ועיצוב דיגיטלי business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://maxux.zappy5.app
 גלו את שירותי MaxUX המקצועיים שמביאים תוצאות אמיתיות. צרו קשר היום לייעוץ חינם!
 
 ### שירותים
-https://example.com/services
+https://maxux.zappy5.app/services
 גלו את מגוון השירותים הדיגיטליים של MaxUX - בניית אתרים, עיצוב UI/UX, אופטימיזציה ועוד. פתרונות מותאמים אישית לכל עסק.
 
 ### אודות
-https://example.com/about
+https://maxux.zappy5.app/about
 הכירו את MaxUX - הצוות המקצועי שמאחורי פתרונות הבניית אתרים החדשניים. למדו על הערכים, החזון והגישה שלנו.
 
 ### צור קשר
-https://example.com/contact
+https://maxux.zappy5.app/contact
 צרו קשר עם MaxUX לייעוץ חינם. נשמח לענות על כל שאלה ולעזור לכם להתחיל את הפרויקט הדיגיטלי שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://maxux.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://maxux.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://maxux.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About MaxUX
+MaxUX is a business in the שירותי טכנולוגיה ועיצוב דיגיטלי industry.
+
+## Target Audience
+כל סוגי העסקים - עסקים קטנים, בינוניים וגדולים, סטארטאפים וארגונים
+
+## Industry
+שירותי טכנולוגיה ועיצוב דיגיטלי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://maxux.zappy5.app/sitemap.xml
+- **Robots.txt**: https://maxux.zappy5.app/robots.txt
