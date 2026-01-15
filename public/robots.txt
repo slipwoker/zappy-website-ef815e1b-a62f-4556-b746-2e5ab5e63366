@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxux-ef815e1b.zappy5.app/sitemap.xml
